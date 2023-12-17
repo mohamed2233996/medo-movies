@@ -1246,3 +1246,18 @@ main {
 
 }
 
+
+
+.search-section{
+  display: none;
+  background-color: #19a1cf;
+  padding-top: 160px;
+}
+
+.text-search{
+  color: white;
+}
+
+.resulte-box:hover .text-search{
+  color: var(--primary-color);
+}
